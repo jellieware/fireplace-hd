@@ -1,6 +1,10 @@
 # fireplace-glsl-shader-android
 A very nice fireplace for Android!
 
+Live Demo (Using shader): 
+
+http://alext.rf.gd
+
 You will need to install the (free) Shader Editor with Live Wallpaper included from the playstore first...
 
 https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor
