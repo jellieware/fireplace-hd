@@ -3,6 +3,8 @@ A very nice fireplace!
 
 Live Demo (Using shader): 
 
+All-In-One *.html page. Runs Offline and Online
+
 http://alext.rf.gd
 
 https://youtu.be/skblO6ruIdc?si=3QdpAo_YHYTnzsem
