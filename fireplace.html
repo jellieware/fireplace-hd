@@ -1012,7 +1012,8 @@ var once=0;
 
  window.addEventListener( 'click', () => { 
   
-
+if (once == 0)
+{
 const audioContext = new AudioContext();
   let noiseGenerator; // in the global scope for use elsewhere in the code
 
@@ -1068,6 +1069,8 @@ function setSize()
   sizeParam.value = 1;
 }
 startAudioWorkletSound(audioContext)
+once=1;
+}
 }); 
 </script>
 
